@@ -31,6 +31,6 @@ I'm actively seeking junior software engineering opportunities in London or remo
 
 ## 📫 Let’s Connect
 - Linkedin: https://www.linkedin.com/in/alisha-shah-ab3846229/
--  Email: alisha.shah730@hotmail.com
+-  Email: alisha.shah71@hotmail.com
 
 Thanks for reading—let’s build something amazing together!
