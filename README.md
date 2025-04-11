@@ -30,7 +30,7 @@ Driven by the potential of technology to simplify everyday processes, I decided 
 I'm actively seeking junior software engineering opportunities in London or remotely. I'm particularly interested in backend development, data engineering, or cloud-focused roles.
 
 ## 📫 Let’s Connect
-- Linkedin: https://www.linkedin.com/in/alisha-shah-ab3846229/
+- Linkedin: linkedin.com/in/alisha-shah-b10346229
 -  Email: alisha.shah71@hotmail.com
 
 Thanks for reading—let’s build something amazing together!
