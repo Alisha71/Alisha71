@@ -17,20 +17,21 @@ Driven by the potential of technology to simplify everyday processes, I decided 
 - **Specialities:** CLI applications, Data handling, OOP, Database-driven apps
 
 ## Recent Projects
-- [Spend-Wise-Buddy](https://github.com/Alisha71/Spend-Wise-Buddy): A Python-based CLI personal finance tracker with SQLite.
-- **Task Manager CLI App**: CLI app featuring user management, CRUD operations, and file handling.
-- **Bookstore Management System**: A SQLite-driven application managing bookstore inventory.
+- OurVoice: Flask Client–Server Application
+- Personality-Based Book Recommendation API
+- Spend-Wise-Buddy: Personal Finance Tracker
+- Task Manager CLI App
+- Bookstore Inventory Manager
+- Email Inbox Simulator (OOP)
 
 ## Currently Learning
-- Web frameworks (Flask, Django)
-- Advanced SQL & database optimisation
 - Cloud technologies (AWS, Google Cloud)
 
 ## My Goal
-I'm actively seeking junior software engineering opportunities in London or remotely. I'm particularly interested in backend development, data engineering, or cloud-focused roles.
+I'm actively seeking software engineering opportunities in London or remotely. I'm particularly interested in backend development, data engineering, or cloud-focused roles.
 
 ## Let’s Connect
 - Linkedin: linkedin.com/in/alisha-shah-b10346229
 -  Email: alisha.shah71@hotmail.com
 
-Thanks for reading—let’s build something amazing together!
+Thanks for reading!
