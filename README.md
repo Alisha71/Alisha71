@@ -1,4 +1,4 @@
-# Hey there, I’m Alisha! ✨
+# Hi, I’m Alisha! ✨
 
 I'm a junior software engineer based in London, making an exciting career transition into tech. I've recently completed the Imperial College London Software Engineering Bootcamp, 
 and I'm currently sharpening my skills in Python, SQL, Bash scripting, and building command-line applications.
